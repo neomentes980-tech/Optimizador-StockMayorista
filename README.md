@@ -24,9 +24,14 @@ de que se produzca un quiebre que afecte las ventas.
 
 ```bash
 python stock_ia.py
+
+
 ## 📋 Ejemplo de salida
 
 ```
+2026-07-30 20:45:29 - INFO - ## 📋 Ejemplo de salida
+
+​```
 2026-07-30 20:45:29 - INFO - Iniciando sistema de optimización de stock...
 2026-07-30 20:45:29 - INFO - Inventario cargado: 5 productos.
 2026-07-30 20:45:29 - WARNING - ⚠️ ALERTA: 'Azúcar x 1 kg' — Stock actual: 45 uds (45.0% del mínimo).
@@ -34,4 +39,4 @@ python stock_ia.py
 2026-07-30 20:45:29 - INFO - Reporte guardado en: alertas_generadas.txt
 
 🚨 Se encontraron 4 producto(s) en riesgo.
-```
+​```
