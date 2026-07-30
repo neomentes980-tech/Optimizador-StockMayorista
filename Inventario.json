@@ -1,0 +1,7 @@
+[
+    {"producto": "Aceite Girasol 900ml", "stock_actual": 120, "stock_minimo": 150},
+    {"producto": "Azúcar x 1 kg", "stock_actual": 45, "stock_minimo": 100},
+    {"producto": "Arroz x 1 kg", "stock_actual": 300, "stock_minimo": 200},
+    {"producto": "Leche Entera 1L", "stock_actual": 80, "stock_minimo": 120},
+    {"producto": "Fideos Tallarín 500g", "stock_actual": 25, "stock_minimo": 90}
+]
