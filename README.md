@@ -21,6 +21,18 @@ de que se produzca un quiebre que afecte las ventas.
 
 ## 🚀 Cómo ejecutarlo
 
+1. Cloná o descargá este repositorio.
+2. Asegurate de tener Python 3.11+ instalado.
+3. Abrí una terminal en la carpeta del proyecto.
+4. Ejecutá el script principal:
+
+```bash
+python stock_ia.py
+```
+
+5. El sistema va a leer automáticamente el inventario desde `inventario.json`, analizar cada producto, y generar un reporte con las alertas encontradas en `alertas_generadas.txt`.
+
+> 💡 También podés probarlo directamente en Replit sin instalar nada: subí los 3 archivos a un nuevo repl de Python y ejecutá `stock_ia.py`.
 ## 📋 Ejemplo de salida
 
 2026-07-30 20:45:29 - INFO - Iniciando sistema de optimización de stock...
