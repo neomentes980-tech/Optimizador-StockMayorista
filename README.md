@@ -42,9 +42,12 @@ python stock_ia.py
 2026-07-30 20:45:29 - INFO - Reporte guardado en: alertas_generadas.txt
 Se encontraron 4 producto(s) en riesgo.
 ## 🧱 Estructura del proyecto
-├── stock_ia.py           # Lógica principal del sistema
-├── inventario.json       # Base de datos de productos (editable)
-└── alertas_generadas.txt # Reporte generado automáticamente
+```
+Optimizador-StockMayorista/
+├── stock_ia.py            # Lógica principal del sistema
+├── inventario.json        # Base de datos de productos (editable)
+└── alertas_generadas.txt  # Reporte generado automáticamente
+​```
 ## 🛠️ Tecnologías
 
 - Python 3.11+
